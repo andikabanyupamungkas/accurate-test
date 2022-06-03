@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">AccurateTask</string>
+    <string name="home">Home</string>
+    <string name="input_name">Input Name</string>
+    <string name="input_address">Input Address</string>
+    <string name="input_number">Input Number</string>
+    <string name="input_email">Input Email</string>
+    <string name="last_maintenance_date">Last Maintenance Date</string>
+    <string name="images_0_10">Images: 0 / 10</string>
+    <string name="add_image">Add Image</string>
+    <string name="flash">Flash</string>
+    <string name="accurate_code">accurate Code</string>
+    <string name="edit">Edit</string>
+    <string name="delete_accurate">Delete accurate</string>
+    <string name="edit_accurate">Edit accurate</string>
+    <string name="delete">Delete</string>
+    <string name="add_accurate">Add accurate</string>
+    <string name="scan_qr_code">Scan QR Code</string>
+    <string name="save">Save</string>
+    <string name="sort">Sort</string>
+    <string name="error_max_image">Only 10 images are allowed in this accurate</string>
+    <string name="preview">Preview Image</string>
+    <string name="image_counter_info">Images: %s / 10</string>
+    <string name="sort_by">Sort By</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="ok">OK</string>
+    <string name="select_city">Select City</string>
+    <string name="alert_name">Please Input Your Name</string>
+    <string name="alert_address">Please Input Your Address</string>
+    <string name="alert_email">Please Input Your Email</string>
+    <string name="alert_phone">Please Input Your Phone Number</string>
+    <string name="alert_city">Please Select Your City</string>
+    <string name="search">search</string>
+</resources>
